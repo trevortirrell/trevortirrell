@@ -2,6 +2,7 @@
 
 I live in Greenville, SC and have worked in tech since 1997. Starting in IT with Dos and Windows 3.1 and about 6 years ago I began programming.
 
+- 👔 Owner of [ttirrell](https://www.ttirrell.com) a mobile app development / consulting company
 - 💻 I’m currently working at [Turnkey Computer Sytems](https://www.turnkeynet.com/)
 - 📚 I’m currently learning .Net Maui and Azure
 - 📫 How to reach me: By [email](ttirrell@hotmail.com), [LinkedIn](https://www.linkedin.com/in/ttirrell/), or [Twitter](https://www.twitter.com/_ttirrell)
